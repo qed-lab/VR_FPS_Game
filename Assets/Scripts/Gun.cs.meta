@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0083ca633ffd80543b4703b22b0e2065
+timeCreated: 1512703374
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fpsCam: {instanceID: 0}
+  - MuzzleFlash: {instanceID: 0}
+  - impactEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

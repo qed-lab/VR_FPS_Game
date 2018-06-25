@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d4254460ef8576840a57575d50813141
+timeCreated: 1520560464
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CrashNumberingSerif
+  fontNames:
+  - CrashNumberingSerif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f7aa2b3c1448ab429b0bdba7fcd5326
+timeCreated: 1520560464
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CrashNumberingGothic
+  fontNames:
+  - CrashNumberingGothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
